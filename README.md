@@ -70,7 +70,7 @@ https://github.com/Shashankii/Retail-Sales-Dashboard/blob/main/DASHBOARD.png
 - 🚀 **Growth-Oriented Thinking**: Enables proactive response to market signals
 
 
-## How to Use
+## 🧩 How to Use
 Download the .pbit file from this repository
 
 Open it in Power BI Desktop
