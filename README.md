@@ -6,7 +6,6 @@ The **Retail Sales Performance Dashboard** is an end-to-end Power BI project des
 
 By integrating visual storytelling with analytical depth, the dashboard transforms raw transactional data into actionable insights. The project focuses on delivering a highly interactive and accessible analytics experience to non-technical business users, driving smarter decision-making at all organizational levels.
 
----
 
 ## 🎯 Purpose
 
@@ -17,6 +16,17 @@ The primary purpose of this project is to build a **centralized and intuitive sa
 - Helps identify sales bottlenecks and opportunities for growth
 - Supports strategic planning for marketing, operations, and finance teams
 - Equips business users with self-service analytics capabilities
+
+
+## 📂 Files Included
+
+📥 Download Retail Sales Dashboard.pbit - https://github.com/Shashankii/Retail-Sales-Dashboard/blob/main/Retail%20sales%20dashbaord.pbit
+✅ Fully interactive Power BI template with embedded schema and logic – no external data connection needed.
+ 
+🖼️ Screenshot/Demos
+See what the dashboard looks like: 
+https://github.com/Shashankii/Retail-Sales-Dashboard/blob/main/DASHBOARD.png
+
 
 ## 🧰 Tools & Technologies Used
 
@@ -59,14 +69,6 @@ The primary purpose of this project is to build a **centralized and intuitive sa
 - 📊 **Clear Executive Reporting**: Communicates data clearly to top leadership
 - 🚀 **Growth-Oriented Thinking**: Enables proactive response to market signals
 
-## 📂 Files Included
-
-📥 Download Retail Sales Dashboard.pbit - https://github.com/Shashankii/Retail-Sales-Dashboard/blob/main/Retail%20sales%20dashbaord.pbit
-✅ Fully interactive Power BI template with embedded schema and logic – no external data connection needed.
- 
-🖼️ Screenshot/Demos
-See what the dashboard looks like: 
-https://github.com/Shashankii/Retail-Sales-Dashboard/blob/main/DASHBOARD.png
 
 🧩 How to Use
 Download the .pbit file from this repository
